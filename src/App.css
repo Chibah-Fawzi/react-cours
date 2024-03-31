@@ -53,3 +53,24 @@ nav a {
 .read-the-docs {
   color: #888;
 }
+
+.Said {
+  color: red;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.mytext {
+  background-color: blue;
+  color: green;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
